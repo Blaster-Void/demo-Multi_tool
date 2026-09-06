@@ -1,6 +1,5 @@
 import socket
 import time ,datetime
-import os
 import calendar
 from requests import get
 colors={'green':'\x1b[32m',
